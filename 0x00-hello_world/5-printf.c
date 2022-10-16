@@ -1,7 +1,3 @@
-/*
- * 5-print.c
- */
-
 #include <stdio.h>
 
 /*
