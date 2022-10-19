@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - start point
- *
- * Description: Print out all alphabets in lower case
+ * print_alphabelt - Print out all alphabets in lower case
  *
  * Return: Always 0.
  */
