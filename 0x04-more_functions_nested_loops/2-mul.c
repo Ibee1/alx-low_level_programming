@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * mul - multiply a and b
  * @a: the first value
