@@ -1,9 +1,13 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- * print_most_numbers - print numbers
+ * print_most_numbers - prints numbers
+ * dont print 2 and 4
  *
  * Return: void
  */
+
+
 void print_most_numbers(void)
 {
 	char c;
