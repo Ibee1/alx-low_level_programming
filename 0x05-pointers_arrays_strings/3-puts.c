@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _puts - print a string followed by newline
  * @str: the value to process to the stdout.
